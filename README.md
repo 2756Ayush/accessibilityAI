@@ -1,5 +1,9 @@
 # accessibilityAI
 this ai helps to speech impaired people to talk.
+
+
+
+
 import cv2
 import mediapipe as mp
 import numpy as np
